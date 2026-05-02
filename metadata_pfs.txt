@@ -1,0 +1,20 @@
+ExifTool Version Number         : 12.76
+File Name                       : PFS-dignity.png
+Directory                       : .
+File Size                       : 1357 kB
+File Modification Date/Time     : 2026:05:02 09:47:14+00:00
+File Access Date/Time           : 2026:05:02 09:47:14+00:00
+File Inode Change Date/Time     : 2026:05:02 09:47:14+00:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 2496
+Image Height                    : 4018
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 2496x4018
+Megapixels                      : 10.0
